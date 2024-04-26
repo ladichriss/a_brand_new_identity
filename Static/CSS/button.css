@@ -1,0 +1,19 @@
+
+.button {
+    background-color: #240202;
+    color: white;
+    font-size: 35px;
+    padding-left: 33px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-image: url(https://www.svgrepo.com/show/28675/right-arrow.svg);
+    background-size: 28px; 
+    background-repeat: no-repeat;
+    background-position: calc(100% - 31px) center;
+    
+}
+
+.button a {
+    text-decoration: none;
+    color: white;
+} 

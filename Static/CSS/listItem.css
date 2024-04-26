@@ -1,4 +1,13 @@
 
+.list {
+    padding-top: 104px;
+    padding-bottom: 147px;
+}
+
 .listItem {
-    none    
+    color: #707070;
+}
+
+.listItem a {
+    color: red;
 }

@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.pageSignature {
+    background-color: #ECCEFF;
+    color: #707070;
+    font-size: 22px;
+    font-family: "Merriweather";
+    padding-top: 60px;
+    padding-bottom: 200px;
+}

@@ -8,10 +8,23 @@
 
 .listItem {
     color: #707070;
+    font-size: 22px;
     font-family: "Merriweather";
     padding-bottom: 53px;
 }
 
 .listItem a {
     color: red;
+}
+
+ol{
+    counter-reset: listItem;
+    list-style: none;
+
+}
+  
+li:before {
+    content: "0"counter(listItem) ".";
+    counter-increment: listItem;
+    font-size: 70px;
 }
